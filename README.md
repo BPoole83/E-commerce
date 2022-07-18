@@ -1,8 +1,5 @@
 # 14-MVC-Tech-Blog
 
-Due Date:P 5/1/2021 @ 11:59 PM
-Homework #14: Model-View-Controller (MVC): Tech Blog
-
 # Objectives
 
 The primary objectives of this exercise were to demonstrate the following:
@@ -26,7 +23,7 @@ This exercise requires the following npm modules
 
 | Description       | Link                                         |
 | ----------------- | -------------------------------------------- |
-| github repo       | https://github.com/jonesjsc/14-MVC-Tech-Blog |
+| github repo       | |
 | heroku deployment | https://techblog-hw14.herokuapp.com/         |
 
 # Routes
@@ -48,9 +45,7 @@ This exercise requires the following npm modules
 | put    | /api/comment/:id | Update a comment by ID - expects JSON object formatted:<br>`{`<br>`"comment_text": "`<em>`COMMENT_TEXT`</em>`"`<br>`}`                                                                                                                      |
 | delete | /api/comment/:id | Deletes a commend by ID                                                                                                                                                                                                                     |
 
-# ER Diagram
 
-![<img src=./assets/ERDiagram.png>](./assets/ERDiagram.png)
 
 ## Application MVC Structure
 
