@@ -23,7 +23,7 @@ This exercise requires the following npm modules
 
 | Description       | Link                                         |
 | ----------------- | -------------------------------------------- |
-| github repo       | |
+| github repo       | https://github.com/BPoole83/Model-View-Controller-MVC-Challenge-Tech-Blog
 | heroku deployment | https://techblog-hw14.herokuapp.com/         |
 
 # Routes
